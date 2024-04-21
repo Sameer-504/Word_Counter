@@ -1,14 +1,14 @@
 {
-  "name": "s504-word_counter",
-  "version": "1.0.0",
-  "description": "This is a Word COunter Project",
+  "name": "s504-words_counter",
+  "version": "1.0.1",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sameer Anis",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.19"
